@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [3.1.6](https://github.com/arkid15r/cspell-dicts/compare/@cspell/dict-fullstack-v3.1.5...@cspell/dict-fullstack@3.1.6) (2024-05-21)
+
+
+### Updates and Bug Fixes
+
+* update fullstack dict ([#3181](https://github.com/arkid15r/cspell-dicts/issues/3181)) ([2bfcba9](https://github.com/arkid15r/cspell-dicts/commit/2bfcba952e9d2aac1c7141ab6caef61abdd479d2))
+
 ## [3.1.5](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-fullstack@3.1.4...@cspell/dict-fullstack@3.1.5) (2023-03-23)
 
 
