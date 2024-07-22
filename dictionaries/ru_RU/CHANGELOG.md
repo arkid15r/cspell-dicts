@@ -3,6 +3,23 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.3.0](https://github.com/arkid15r/cspell-dicts/compare/@cspell/dict-ru_ru-v2.2.1...@cspell/dict-ru_ru@2.3.0) (2024-07-22)
+
+
+### Features
+
+* Update dictionary sources ([#2705](https://github.com/arkid15r/cspell-dicts/issues/2705)) ([27ad9de](https://github.com/arkid15r/cspell-dicts/commit/27ad9de120fc71bc1b9a2aacc4407c423aeee2fd))
+
+
+### Updates and Bug Fixes
+
+* Workflow Bot -- Build Dictionaries ([#2707](https://github.com/arkid15r/cspell-dicts/issues/2707)) ([2f4fb72](https://github.com/arkid15r/cspell-dicts/commit/2f4fb72ad0b370c78bdbc19f38ee6a452e767010))
+
+
+### Documentation
+
+* fix link to additional words ([#3027](https://github.com/arkid15r/cspell-dicts/issues/3027)) ([0e5b715](https://github.com/arkid15r/cspell-dicts/commit/0e5b71510cb2b3389a3396c33bb55594f45aa5e2))
+
 ## [2.2.1](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-ru_ru@2.2.0...@cspell/dict-ru_ru@2.2.1) (2024-03-05)
 
 

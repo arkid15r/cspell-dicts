@@ -3,6 +3,24 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [5.0.18](https://github.com/arkid15r/cspell-dicts/compare/@cspell/dict-npm-v5.0.17...@cspell/dict-npm@5.0.18) (2024-07-22)
+
+
+### Updates and Bug Fixes
+
+* add Fastify and pino to libraries; Yassir to companies ([#2933](https://github.com/arkid15r/cspell-dicts/issues/2933)) ([1ed808b](https://github.com/arkid15r/cspell-dicts/commit/1ed808b4206ef131ed74d936bd8b8440e925e6c8))
+* add npm packages ([#3394](https://github.com/arkid15r/cspell-dicts/issues/3394)) ([fa9d052](https://github.com/arkid15r/cspell-dicts/commit/fa9d0524e1b473c26767e7e87ae2ce71d23ce44e))
+* Add some common coding terms ([#3165](https://github.com/arkid15r/cspell-dicts/issues/3165)) ([99a10bc](https://github.com/arkid15r/cspell-dicts/commit/99a10bc436b1b1b6e1922b8a152aff33a6f09ada))
+* Add some npmcli and npm-package-json-lint terms ([#2813](https://github.com/arkid15r/cspell-dicts/issues/2813)) ([b4b6cd0](https://github.com/arkid15r/cspell-dicts/commit/b4b6cd0105222ee721a2f7a6128807d2ff440615))
+* add various terms ([#2734](https://github.com/arkid15r/cspell-dicts/issues/2734)) ([1058a2c](https://github.com/arkid15r/cspell-dicts/commit/1058a2c5a53bd9aa72958943062d4d454678c2f5))
+* Update npm.txt ([#3397](https://github.com/arkid15r/cspell-dicts/issues/3397)) ([56dd248](https://github.com/arkid15r/cspell-dicts/commit/56dd24886ec5f1b84512715ed143e11963d968ef))
+* Workflow Bot -- Build Dictionaries ([#2735](https://github.com/arkid15r/cspell-dicts/issues/2735)) ([ef0afb1](https://github.com/arkid15r/cspell-dicts/commit/ef0afb1582802bd7705cb62ae8c6c6f939921b30))
+* Workflow Bot -- Build Dictionaries ([#2816](https://github.com/arkid15r/cspell-dicts/issues/2816)) ([ef4df30](https://github.com/arkid15r/cspell-dicts/commit/ef4df300933961d90e048cfcb89c3ca9bd3c9630))
+* Workflow Bot -- Build Dictionaries ([#2938](https://github.com/arkid15r/cspell-dicts/issues/2938)) ([8ee345f](https://github.com/arkid15r/cspell-dicts/commit/8ee345f662d36f170d46fca959f6245de9c7d91c))
+* Workflow Bot -- Build Dictionaries ([#3167](https://github.com/arkid15r/cspell-dicts/issues/3167)) ([a94f73b](https://github.com/arkid15r/cspell-dicts/commit/a94f73b4ff267e143d97208cf1c93b2b772bea51))
+* Workflow Bot -- Build Dictionaries ([#3396](https://github.com/arkid15r/cspell-dicts/issues/3396)) ([4702b0c](https://github.com/arkid15r/cspell-dicts/commit/4702b0cbe15a26f994232d8020f28dde2c707fd8))
+* Workflow Bot -- Build Dictionaries ([#3398](https://github.com/arkid15r/cspell-dicts/issues/3398)) ([565b720](https://github.com/arkid15r/cspell-dicts/commit/565b720c81f6164e19de3805040ee1e6b0935738))
+
 ## [5.0.17](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-npm@5.0.16...@cspell/dict-npm@5.0.17) (2024-07-18)
 
 
