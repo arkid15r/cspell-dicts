@@ -3,6 +3,24 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [4.3.0](https://github.com/arkid15r/cspell-dicts/compare/@cspell/dict-python-v4.2.1...@cspell/dict-python@4.3.0) (2024-07-22)
+
+
+### Features
+
+* reduce the size of the python dictionary ([#3259](https://github.com/arkid15r/cspell-dicts/issues/3259)) ([a9c1302](https://github.com/arkid15r/cspell-dicts/commit/a9c1302ab3d27b29a8eeb2e019cbc7364ccd1192))
+
+
+### Updates and Bug Fixes
+
+* [python] Add "djlint" term ([#2835](https://github.com/arkid15r/cspell-dicts/issues/2835)) ([92a2686](https://github.com/arkid15r/cspell-dicts/commit/92a2686401d73d77d81a2824e88ac8ac9ce57488))
+* Add "PYTHONHOME" to python dict ([#2697](https://github.com/arkid15r/cspell-dicts/issues/2697)) ([a099929](https://github.com/arkid15r/cspell-dicts/commit/a0999297967fd21639c9b167c5edac5d3ea60f64))
+* Add "venvs" to the python dict ([#2695](https://github.com/arkid15r/cspell-dicts/issues/2695)) ([7b9d821](https://github.com/arkid15r/cspell-dicts/commit/7b9d8218f6e7c5bbfc5a6fc97cd9727e2a0489e1))
+* Add back some legacy terms ([#3261](https://github.com/arkid15r/cspell-dicts/issues/3261)) ([346ddf8](https://github.com/arkid15r/cspell-dicts/commit/346ddf8d4e0e3b4f89fcf75ea85a765f01c17a5e))
+* Issue [#972](https://github.com/arkid15r/cspell-dicts/issues/972): Add common python package names to exception list ([#3256](https://github.com/arkid15r/cspell-dicts/issues/3256)) ([0918dc3](https://github.com/arkid15r/cspell-dicts/commit/0918dc3f4a6ae9b339eeab2900eb7b7df6a5c647))
+* Workflow Bot -- Build Dictionaries ([#3258](https://github.com/arkid15r/cspell-dicts/issues/3258)) ([4e49a5d](https://github.com/arkid15r/cspell-dicts/commit/4e49a5daa2dd862b70cb8dc0de9bcdee9a5a85ac))
+* Workflow Bot -- Build Dictionaries ([#3263](https://github.com/arkid15r/cspell-dicts/issues/3263)) ([9ade3b6](https://github.com/arkid15r/cspell-dicts/commit/9ade3b6d1f55bbbd6d9a239c5ecf04c247df0443))
+
 ## [4.2.1](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-python@4.2.0...@cspell/dict-python@4.2.1) (2024-06-06)
 
 
