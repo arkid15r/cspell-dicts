@@ -22,6 +22,13 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
+## [4.0.4](https://github.com/arkid15r/cspell-dicts/compare/@cspell/dict-lua-v4.0.3...@cspell/dict-lua@4.0.4) (2024-07-22)
+
+
+### Updates and Bug Fixes
+
+* Workflow Bot -- Build Dictionaries ([#2772](https://github.com/arkid15r/cspell-dicts/issues/2772)) ([ffdf583](https://github.com/arkid15r/cspell-dicts/commit/ffdf5832af5392785809f538bb11ae2d58d49ac0))
+
 ## [4.0.3](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-lua@4.0.2...@cspell/dict-lua@4.0.3) (2023-12-05)
 
 
